@@ -74,7 +74,6 @@ The United Kingdom generated approximately **84.6% of total sales**.
 Customers were ranked according to their total purchase value to identify the highest-value customers.
 
 ---
-
 ## Dashboard
 
 The project includes a sales dashboard presenting:
@@ -87,6 +86,8 @@ The project includes a sales dashboard presenting:
 - Sales Distribution by Country
 - Top Products
 - Key Business Insights
+
+![Online Retail Sales Dashboard](dashboard.png)
 
 ---
 
